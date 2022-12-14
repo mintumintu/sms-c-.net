@@ -1,0 +1,13 @@
+C:\Users\pattn\source\repos\My First Windows App\My First Windows App\bin\Debug\My First Windows App.exe.config
+C:\Users\pattn\source\repos\My First Windows App\My First Windows App\bin\Debug\My First Windows App.exe
+C:\Users\pattn\source\repos\My First Windows App\My First Windows App\bin\Debug\My First Windows App.pdb
+C:\Users\pattn\source\repos\My First Windows App\My First Windows App\obj\Debug\My First Windows App.csproj.AssemblyReference.cache
+C:\Users\pattn\source\repos\My First Windows App\My First Windows App\obj\Debug\My First Windows App.csproj.SuggestedBindingRedirects.cache
+C:\Users\pattn\source\repos\My First Windows App\My First Windows App\obj\Debug\My_First_Windows_App.Form1.resources
+C:\Users\pattn\source\repos\My First Windows App\My First Windows App\obj\Debug\My_First_Windows_App.Properties.Resources.resources
+C:\Users\pattn\source\repos\My First Windows App\My First Windows App\obj\Debug\My First Windows App.csproj.GenerateResource.cache
+C:\Users\pattn\source\repos\My First Windows App\My First Windows App\obj\Debug\My First Windows App.csproj.CoreCompileInputs.cache
+C:\Users\pattn\source\repos\My First Windows App\My First Windows App\obj\Debug\My First Windows App.exe
+C:\Users\pattn\source\repos\My First Windows App\My First Windows App\obj\Debug\My First Windows App.pdb
+C:\Users\pattn\source\repos\My First Windows App\My First Windows App\obj\Debug\My_First_Windows_App.Form2.resources
+C:\Users\pattn\source\repos\My First Windows App\My First Windows App\obj\Debug\My_First_Windows_App.Form3.resources
